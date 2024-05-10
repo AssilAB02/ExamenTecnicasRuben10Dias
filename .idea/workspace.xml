@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31cbfd3b-0bea-4b03-9d70-ecaeb2131ae1" name="Changes" comment="Correccion y organización" />
+    <list default="true" id="31cbfd3b-0bea-4b03-9d70-ecaeb2131ae1" name="Changes" comment="MainCuentaAdelante.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainCuentaAdelante.executor": "Run",
     "Application.MainCuentaAtras.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -60,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715374619874</updated>
-      <workItem from="1715374621151" duration="1719000" />
+      <workItem from="1715374621151" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="Definicion Clase CuentaAtras.java">
       <option name="closed" value="true" />
@@ -150,7 +151,55 @@
       <option name="project" value="LOCAL" />
       <updated>1715376313671</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Definicion MDV CuentaAdelante">
+      <option name="closed" value="true" />
+      <created>1715376470001</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376470001</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Implementacion ModeloCuentaAdelante.java">
+      <option name="closed" value="true" />
+      <created>1715376583675</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376583675</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Implementacion CuentaAdelante.java">
+      <option name="closed" value="true" />
+      <created>1715376655395</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376655395</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implementacion VistaCuentaAdelante.java">
+      <option name="closed" value="true" />
+      <created>1715376716279</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376716279</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Creacion Test de CuentaAdeante MainCuentaAdelante.java">
+      <option name="closed" value="true" />
+      <created>1715376766539</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376766539</updated>
+    </task>
+    <task id="LOCAL-00017" summary="MainCuentaAdelante.java">
+      <option name="closed" value="true" />
+      <created>1715376802400</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376802400</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +217,13 @@
     <MESSAGE value="Implementacion MainCuentaAtras.java" />
     <MESSAGE value="Javadocs y explicaciones del Contador CuentraAtras" />
     <MESSAGE value="Correccion y organización" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correccion y organización" />
+    <MESSAGE value="Definicion MDV CuentaAdelante" />
+    <MESSAGE value="Implementacion ModeloCuentaAdelante.java" />
+    <MESSAGE value="Implementacion CuentaAdelante.java" />
+    <MESSAGE value="Implementacion VistaCuentaAdelante.java" />
+    <MESSAGE value="Creacion Test de CuentaAdeante MainCuentaAdelante.java" />
+    <MESSAGE value="MainCuentaAdelante.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainCuentaAdelante.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
