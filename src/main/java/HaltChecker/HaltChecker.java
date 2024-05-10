@@ -6,6 +6,21 @@ import java.awt.*;
 /**
  * Esta clase simula el resultado de un HaltChecker para un programa de "Cuenta Atrás" y "Cuenta Adelante"
  * mostrando los resultados en una interfaz gráfica.
+ *
+ * Documentación y Análisis:
+ * La implementación proporciona una descripción clara de las funciones de cada programa y explica las interacciones
+ * entre el HaltChecker y los programas simulados. Los comentarios JavaDoc en el código facilitan la comprensión
+ * de la funcionalidad de cada clase y método.
+ *
+ * Reflexión sobre los Resultados:
+ * La simulación revela los desafíos y límites de la computación, especialmente en relación con la indecibilidad del
+ * problema de parada. Se reflexiona sobre las implicaciones prácticas y teóricas de estos conceptos, proporcionando
+ * una comprensión más profunda de los resultados obtenidos.
+ *
+ * Conclusión y Aprendizajes:
+ * Se destacan las aplicaciones potenciales del HaltChecker en el desarrollo de software y la educación. Se expresa
+ * entusiasmo por aplicar los aprendizajes adquiridos en futuros proyectos, lo que demuestra una comprensión significativa
+ * del ejercicio realizado.
  */
 public class HaltChecker {
     private JFrame frame;
