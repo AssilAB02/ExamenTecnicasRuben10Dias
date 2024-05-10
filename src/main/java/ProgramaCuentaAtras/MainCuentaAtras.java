@@ -3,7 +3,7 @@ package ProgramaCuentaAtras;
 /**
  * Esta clase implementa la aplicación de contador regresivo.
  */
-public class CuentaAtrasApp {
+public class MainCuentaAtras {
     /**
      * Método principal para iniciar la aplicación.
      * @param args Los argumentos de la línea de comandos (no se utilizan en este programa).
