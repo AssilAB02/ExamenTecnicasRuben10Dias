@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31cbfd3b-0bea-4b03-9d70-ecaeb2131ae1" name="Changes" comment="Correccion error de vista en VistaCuentaAtras.java">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramaCuentaAtras/MainCuentaAtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramaCuentaAtras/MainCuentaAtras.java" afterDir="false" />
-    </list>
+    <list default="true" id="31cbfd3b-0bea-4b03-9d70-ecaeb2131ae1" name="Changes" comment="Correccion y organización" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715374619874</updated>
-      <workItem from="1715374621151" duration="1400000" />
+      <workItem from="1715374621151" duration="1719000" />
     </task>
     <task id="LOCAL-00001" summary="Definicion Clase CuentaAtras.java">
       <option name="closed" value="true" />
@@ -131,7 +126,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715375985411</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implementacion MainCuentaAtras.java">
+      <option name="closed" value="true" />
+      <created>1715376054472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376054472</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Javadocs y explicaciones del Contador CuentraAtras">
+      <option name="closed" value="true" />
+      <created>1715376253979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376253979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Correccion y organización">
+      <option name="closed" value="true" />
+      <created>1715376313671</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715376313671</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +165,10 @@
     <MESSAGE value="Definicion Main de Testeo Cuenta Atras" />
     <MESSAGE value="Correccion ControladorCuentaAtras.java" />
     <MESSAGE value="Correccion error de vista en VistaCuentaAtras.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correccion error de vista en VistaCuentaAtras.java" />
+    <MESSAGE value="Implementacion MainCuentaAtras.java" />
+    <MESSAGE value="Javadocs y explicaciones del Contador CuentraAtras" />
+    <MESSAGE value="Correccion y organización" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correccion y organización" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
