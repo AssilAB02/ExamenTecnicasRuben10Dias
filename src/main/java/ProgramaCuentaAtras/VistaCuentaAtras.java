@@ -1,4 +1,4 @@
 package ProgramaCuentaAtras;
 
-public class CuentaAtras {
+public class VistaCuentaAtras {
 }
